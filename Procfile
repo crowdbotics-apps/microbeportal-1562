@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT microbeportal_1562.wsgi:application
